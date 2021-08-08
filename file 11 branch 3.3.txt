@@ -5,5 +5,3 @@ and
 2 commit
 and
 3 commit
-and
-4 commit
